@@ -27,6 +27,7 @@ def find_greater_pair(src)
       array.push(src[row][0])
     else
       array.push(src[row][1])
+    end 
       array += 1
   end
   array
