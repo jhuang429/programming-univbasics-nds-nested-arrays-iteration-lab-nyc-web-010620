@@ -13,7 +13,7 @@ def join_ingredients(src)
     row += 1
   end
 
-
+array
 end
 
 def find_greater_pair(src)
